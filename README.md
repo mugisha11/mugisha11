@@ -64,11 +64,8 @@ I'm **Pierre Mugisha**, a passionate **Web Developer** from Kigali, Rwanda. I sp
 ## 🌐 Connect with Me
 
 * [GitHub](https://github.com/mugisha11)
-* [LinkedIn](YOUR_LINKEDIN_LINK)
-* [Twitter](YOUR_TWITTER_LINK)
+* [LinkedIn](www.linkedin.com/in/mugpet)
+* [Twitter](https://x.com/PeterM58063)
 * [Portfolio](YOUR_PORTFOLIO_LINK)
-* Email: YOUR_EMAIL_HERE
+* Email: mugishap432@gmail.com
 
----
-
-*This profile README is now packed with multiple stats, badges, and links to showcase your coding skills and achievements.*

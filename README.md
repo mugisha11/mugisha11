@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pierre Mugisha
 
-[![GitHub followers](https://img.shields.io/github/followers/mugisha11?label=Follow\&style=social)](https://github.com/mugisha11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_LINK) [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](YOUR_TWITTER_LINK) [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?logo=github)](YOUR_PORTFOLIO_LINK) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL_HERE)
+[![GitHub followers](https://img.shields.io/github/followers/mugisha11?label=Follow\&style=social)](https://github.com/mugisha11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://x.com/PeterM58063) [![Twitter]([https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter](https://toppng.com/public/uploads/preview/twitter-x-new-logo-round-icon-png-11692480241tdbz6jparr.webp))](YOUR_TWITTER_LINK) [![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?logo=github)](YOUR_PORTFOLIO_LINK) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:YOUR_EMAIL_HERE)
 
 ---
 
